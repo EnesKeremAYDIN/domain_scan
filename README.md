@@ -1,6 +1,6 @@
 # Domain Scan
 
-A command-line domain scanning toolkit written in Python. This tool allows you to perform basic reconnaissance and DNS-level investigation on any domain using only native Python libraries and DNS queries.
+Command-line domain scanning toolkit written in Python. This tool allows you to perform basic reconnaissance and DNS-level investigation on any domain using only native Python libraries and DNS queries.
 
 ## Features
 
